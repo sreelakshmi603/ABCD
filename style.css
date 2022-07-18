@@ -1,0 +1,52 @@
+.desktop1{
+    background-color: #97716C;
+}
+
+.nav{
+    position: relative;
+    color: #fff;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+.img1{
+    width: 364px;
+    height: 205px;
+}
+
+.img2{
+    position: absolute;
+width: 507px;
+height: 507px;
+left: 450px;
+top: 159px;
+
+}
+
+.list{
+    color: #fff;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+.item{
+    font-family: 'Berlin Sans FB';
+    margin: 10px;
+}
+
+#product1{
+    text-align: center;
+}
+
+.productno1{
+    margin-left: 2150px
+    3px;
+
+}
+
+.productno2{
+    margin-left: 535px;
+    display: inline-block;
+}
+
